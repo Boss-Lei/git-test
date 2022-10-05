@@ -5,6 +5,6 @@ package com.lei.git;
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("hello git1");
     }
 }
